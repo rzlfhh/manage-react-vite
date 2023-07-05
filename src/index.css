@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  html {
+    background-color: theme("colors.vl-gray");
+    color: theme("colors.dark-blue");
+    font-family: theme("fontFamily.viet");
+  }
+
+  .container-app {
+    @apply border max-w-[1110px] mx-auto;
+  }
+}
