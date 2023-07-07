@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Testi from "./components/Testi";
 import Cta from "./components/Cta";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Testi />
       <Cta />
+      <Footer />
     </div>
   );
 }
