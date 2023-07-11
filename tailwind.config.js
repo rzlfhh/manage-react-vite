@@ -12,7 +12,7 @@ export default {
       'vd-blue': 'hsl(233, 12%, 13%)',
       'vp-red': 'hsl(13, 100%, 96%)',
       'vl-gray': 'hsl(0, 0%, 98%)',
-      'white': '#fff',
+      'white': '#ffffff',
     },
     fontFamily: {
       viet: ['Be Vietnam Pro', 'sans-serif'],
